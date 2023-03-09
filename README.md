@@ -4,7 +4,7 @@ This adapter provides a shim for [Docker Engine](https://docs.docker.com/engine/
 that lets you control Docker via the
 Kubernetes [Container Runtime Interface](https://github.com/kubernetes/cri-api#readme).
 
-## IMPORTANT
+## IMPORTANT Hai
 
 For users running `0.2.5` or above, the default network plugin is `cni`. Kubernetes 1.24+ has removed `kubenet` and
 other network plumbing from upstream as part of the `dockershim` removal/deprecation. In order for a cluster to become
